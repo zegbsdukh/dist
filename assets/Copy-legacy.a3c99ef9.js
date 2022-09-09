@@ -1,0 +1,1 @@
+System.register(["./index-legacy.58e2e8c0.js","./useTitle-legacy.bb8ace92.js","./Tasks-legacy.95b08022.js","./useT-legacy.d7e106cf.js"],(function(e,n){"use strict";var t,c,s;return{setters:[function(e){t=e.f},function(e){c=e.b},function(e){s=e.T},function(){}],execute:function(){e("default",(function(){return c("manage.sidemenu.copy"),t(s,{type:"copy"})}))}}}));
